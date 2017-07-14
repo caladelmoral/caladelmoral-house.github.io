@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Enjoy in Málaga</title>
-    <link>http://lacala-joseortiz.rhcloud.com/categories/</link>
+    <link>https://caladelmoral.github.io/house/categories/</link>
     <description>Recent content in Categories on Enjoy in Málaga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://lacala-joseortiz.rhcloud.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caladelmoral.github.io/house/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The House</title>
-      <link>http://lacala-joseortiz.rhcloud.com/categories/the-house/</link>
+      <link>https://caladelmoral.github.io/house/categories/the-house/</link>
       <pubDate>Sat, 20 May 2017 18:03:53 +0200</pubDate>
       
-      <guid>http://lacala-joseortiz.rhcloud.com/categories/the-house/</guid>
+      <guid>https://caladelmoral.github.io/house/categories/the-house/</guid>
       <description></description>
     </item>
     

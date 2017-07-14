@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Enjoy in Málaga</title>
-    <link>http://lacala-joseortiz.rhcloud.com/contact/</link>
+    <link>https://caladelmoral.github.io/house/contact/</link>
     <description>Recent content in Contacts on Enjoy in Málaga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jul 2017 22:08:22 +0200</lastBuildDate>
     
-	<atom:link href="http://lacala-joseortiz.rhcloud.com/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caladelmoral.github.io/house/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ask for more Information</title>
-      <link>http://lacala-joseortiz.rhcloud.com/contact/for-information/</link>
+      <link>https://caladelmoral.github.io/house/contact/for-information/</link>
       <pubDate>Fri, 14 Jul 2017 22:08:22 +0200</pubDate>
       
-      <guid>http://lacala-joseortiz.rhcloud.com/contact/for-information/</guid>
+      <guid>https://caladelmoral.github.io/house/contact/for-information/</guid>
       <description>Write us if you&amp;rsquo;re interested in the house:</description>
     </item>
     
