@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Enjoy in Málaga</title>
+    <link>http://lacala-joseortiz.rhcloud.com/page/</link>
+    <description>Recent content in Pages on Enjoy in Málaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 23:55:23 +0200</lastBuildDate>
+    
+	<atom:link href="http://lacala-joseortiz.rhcloud.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thanks</title>
+      <link>http://lacala-joseortiz.rhcloud.com/page/thanks/</link>
+      <pubDate>Fri, 14 Jul 2017 23:55:23 +0200</pubDate>
+      
+      <guid>http://lacala-joseortiz.rhcloud.com/page/thanks/</guid>
+      <description>Your email has been sent. We&amp;rsquo;ll be back to you soon.
+Thanks</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://lacala-joseortiz.rhcloud.com/page/credits/</link>
+      <pubDate>Mon, 22 May 2017 13:15:30 +0200</pubDate>
+      
+      <guid>http://lacala-joseortiz.rhcloud.com/page/credits/</guid>
+      <description>This site has been devolped using HUGO and hugo-tranquilpeak-theme as theme.
+Images&amp;rsquo; attribution:
+   Image Author        Designed by Freepik      Designed by mrsiraphol / Freepik      Designed by mrsiraphol / Freepik    </description>
+    </item>
+    
+  </channel>
+</rss>
