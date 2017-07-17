@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Enjoy in Málaga</title>
+    <link>https://caladelmoral.github.io/house/en/categories/</link>
+    <description>Recent content in Categories on Enjoy in Málaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://caladelmoral.github.io/house/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The House</title>
+      <link>https://caladelmoral.github.io/house/en/categories/the-house/</link>
+      <pubDate>Sat, 20 May 2017 18:03:53 +0200</pubDate>
+      
+      <guid>https://caladelmoral.github.io/house/en/categories/the-house/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

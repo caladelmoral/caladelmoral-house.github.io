@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Enjoy in Málaga</title>
+    <title>Tags on Piso en La Cala del Moral (Málaga)</title>
     <link>https://caladelmoral.github.io/house/tags/</link>
-    <description>Recent content in Tags on Enjoy in Málaga</description>
+    <description>Recent content in Tags on Piso en La Cala del Moral (Málaga)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2017 17:03:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 18:03:53 +0200</lastBuildDate>
     
 	<atom:link href="https://caladelmoral.github.io/house/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Garden</title>
-      <link>https://caladelmoral.github.io/house/tags/garden/</link>
-      <pubDate>Sat, 20 May 2017 17:03:53 +0200</pubDate>
-      
-      <guid>https://caladelmoral.github.io/house/tags/garden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swimming Pool</title>
-      <link>https://caladelmoral.github.io/house/tags/swimming-pool/</link>
-      <pubDate>Sat, 20 May 2017 17:03:53 +0200</pubDate>
-      
-      <guid>https://caladelmoral.github.io/house/tags/swimming-pool/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The House</title>
-      <link>https://caladelmoral.github.io/house/tags/the-house/</link>
+      <title>La Casa</title>
+      <link>https://caladelmoral.github.io/house/tags/la-casa/</link>
       <pubDate>Sat, 20 May 2017 18:03:53 +0200</pubDate>
       
-      <guid>https://caladelmoral.github.io/house/tags/the-house/</guid>
+      <guid>https://caladelmoral.github.io/house/tags/la-casa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piscinas</title>
+      <link>https://caladelmoral.github.io/house/tags/piscinas/</link>
+      <pubDate>Sat, 20 May 2017 17:03:53 +0200</pubDate>
+      
+      <guid>https://caladelmoral.github.io/house/tags/piscinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zonas Verdes</title>
+      <link>https://caladelmoral.github.io/house/tags/zonas-verdes/</link>
+      <pubDate>Sat, 20 May 2017 17:03:53 +0200</pubDate>
+      
+      <guid>https://caladelmoral.github.io/house/tags/zonas-verdes/</guid>
       <description></description>
     </item>
     
